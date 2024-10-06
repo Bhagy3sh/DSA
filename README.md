@@ -1,2 +1,2 @@
 # DSA
-Adding DSA Code in C
+Open for suggestions
