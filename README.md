@@ -1,8 +1,19 @@
-# 📚 Data Structures and Algorithms in C
+<div align="center">
+<h1>📚 Data Structures and Algorithms in C</h1>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xUPGcLI1KUhsTJmzba" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rose-socialism-dsa-xUPGcLI1KUhsTJmzba">via GIPHY</a></p>
+![DSA GIF](https://media.giphy.com/media/xUPGcLI1KUhsTJmzba/giphy.gif)
+</div>
 
-Welcome to the **DSA** repository! This is a collaborative space for contributors to share and solve data structures and algorithms problems using the C programming language. Whether you're a beginner or an experienced programmer, this repository is designed for you!
+<div align="center">
+    
+![GitHub stars](https://img.shields.io/github/stars/dormeneur/DSA.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dormeneur/DSA.svg?style=social)
+![Contributors](https://img.shields.io/github/contributors/dormeneur/DSA)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+</div>
+
+Welcome!! This is a collaborative space for contributors to share and solve data structures and algorithms problems using the C programming language. Whether you're a beginner or an experienced programmer, this repository is designed for you!
 
 ## 🌟 Features
 
@@ -27,6 +38,12 @@ git clone https://github.com/dormeneur/DSA.git
 cd DSA
 ```
 ## 📖 How to Contribute
+
+<div align="center">
+
+![Nouns GIF](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+    
+</div>
 
 1. Fork the repository: Click on the "Fork" button in the top right corner.
 
@@ -80,5 +97,10 @@ This project is licensed under the [MIT License](LICENSE.txt) - see the LICENSE 
 ## 🤝 Contributors
 Thanks to all the contributors who make this repository a great place to learn and grow!
 
-# Happy Coding! 🚀
+<div align="center">
 
+<h1>Happy Coding! 🚀</h1>
+
+![Dead Tired](https://media.giphy.com/media/26BGqofNXjxluwX0k/giphy.gif)
+
+</div>
