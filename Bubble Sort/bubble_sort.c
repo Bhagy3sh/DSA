@@ -20,13 +20,13 @@ void putarr(int* arr){ // To display array
 	}
 }
 int issorted(int* arr){ // To check if array is sorted
-	for(int i=0;i<size-1;i++){
+	int i;
+	for(i=0;i<size-1;i++){
 		if(arr[i]>arr[i+1]){ // if previous element is greater than the next, returns 0 aka false
 			return 0;
 		}
 	}
-	return 1; // returns 1 aka true at end since theres no element that is greater than the next as if there was, the condition in the loop would have been satisfied and 0 would have been returned. This indicates
-  //that the array is sorted
+	return 1; // true is returned since theres no element that is greater than the next, indicating array is sorted
 }
 void bubsort(int* arr){ //bubble sort function
 	int i,j;
@@ -42,7 +42,6 @@ void bubsort(int* arr){ //bubble sort function
 		}
 		printf("\nPass %d: ",i+1); // to show the passes, aka steps after each element is shifted to the right place, for debug purposes
 		putarr(arr);
-    
 		if(issorted(arr)){
 		// since we know the condition remains true if the return value is a non-zero number, so if
 		// the array is sorted it returns 1, making the condition true and so we break from the loop as we do not need to interate again 
